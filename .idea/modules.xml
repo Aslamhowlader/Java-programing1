@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Runtime_polymorphim/Runtime_polymorphim.iml" filepath="$PROJECT_DIR$/Runtime_polymorphim/Runtime_polymorphim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_code.iml" filepath="$PROJECT_DIR$/java_code.iml" />
+    </modules>
+  </component>
+</project>
